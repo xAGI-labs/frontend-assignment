@@ -2,15 +2,15 @@
 
 ## Instructions
 
-1. Create a private github repository based on [this template](https://github.com/encord-team/frontend-assignment), either on github.com or using the [Github CLI](https://cli.github.com/):
+1. Create a private github repository based on [this template](https://github.com/xAGI-labs/frontend-assignment), either on github.com or using the [Github CLI](https://cli.github.com/):
 
    ```
-   gh repo create encord-fe-assignment --clone --private --template encord-team/frontend-assignment
+   gh repo create xAGI-fe-assignment --clone --private --template xAGI-labs/frontend-assignment
    ```
 
 1. Write a solution to the challenge described below.
 
-1. Once you are finished, compress your solution and send it by email to engineering-interviewers@encord.com. Include instructions for setting up and running your solution
+1. Once you are finished, compress your solution and send it by email to founders@xagi.in . Include instructions for setting up and running your solution
 
 ## Problem description
 
